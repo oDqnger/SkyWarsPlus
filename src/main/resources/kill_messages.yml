@@ -47,3 +47,7 @@ annihilated:
   display-name: "<dark_red>Annihilated"
   message: "<dark_red><victim> <gray>was annihilated by <blue><killer>"
   material: NETHERITE_AXE
+r4ped:
+  display-name: "<gold>Raped"
+  message: "<red><victim> <gray>was raped by <blue><killer>"
+  material: TRIDENT
